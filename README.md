@@ -7,6 +7,8 @@
 - 📫 Contate-me no e-mail: paulomoabe13@gmail.com
 - ⚡ Fun fact: Extremamente dedicado e esforçado.
 - Numero pra contato: 75999418899
+
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulomoabe2)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/palomoabe13@gmail.com).
 
