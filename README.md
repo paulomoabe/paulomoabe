@@ -4,7 +4,6 @@
 
 - 🔭 Hoje trabalho com BACK-END.
 - 🌱 Estou graduando em Analise e Desenvolvimento de Sistemas.
-- 📫 Contate-me no e-mail: paulomoabe13@gmail.com
 - ⚡ Fun fact: Extremamente dedicado e esforçado.
 - Numero pra contato: 71982010089
 
